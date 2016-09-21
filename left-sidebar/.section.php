@@ -1,0 +1,4 @@
+<?
+$sSectionName = "Левый сайдбар";
+$arDirProperties = [];
+?>
